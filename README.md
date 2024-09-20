@@ -38,7 +38,7 @@ This project implements a two-agent system for web search and question answering
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/lahsaini-mohammed/simple-search-assitant.git
+   git clone https://github.com/lahsaini-mohammed/simple-search-assistant.git
    cd your-repo-name
    ```
 
